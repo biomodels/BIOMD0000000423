@@ -1,3 +1,21 @@
+# BIOMD0000000423: Nyman2012_InsulinSignalling
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000423.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000423.git@20140916`
+
+
+# Model Notes
 
 
 This model is from the article:  
@@ -30,4 +48,5 @@ also reveals new differences between human and murine insulin signaling.
 Database The mathematical model described here has been submitted to the
 Online Cellular Systems Modelling Database and can be accessed at
 http://jjj.biochem.sun.ac.za/database/nyman/index.html free of charge.
+
 
